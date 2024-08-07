@@ -91,6 +91,7 @@ If your service provider is not listed, feel free to open a [source request issu
 - [Singleton Council](/doc/source/impactapps_com_au.md) / singleton.nsw.gov.au
 - [Snowy Valleys Council](/doc/source/impactapps_com_au.md) / snowyvalleys.nsw.gov.au
 - [South Burnett Regional Council](/doc/source/impactapps_com_au.md) / southburnett.qld.gov.au
+- [Stirling](/doc/source/stirling_wa_gov_au.md) / stirling.wa.gov.au
 - [Stonnington City Council](/doc/source/stonnington_vic_gov_au.md) / stonnington.vic.gov.au
 - [The Hawkesbury City Council, Sydney](/doc/source/hawkesbury_nsw_gov_au.md) / hawkesbury.nsw.gov.au
 - [The Hills Shire Council, Sydney](/doc/source/thehills_nsw_gov_au.md) / thehills.nsw.gov.au
@@ -98,6 +99,7 @@ If your service provider is not listed, feel free to open a [source request issu
 - [Townsville](/doc/source/townsville_qld_gov_au.md) / townsville.qld.gov.au
 - [Unley City Council (SA)](/doc/source/unley_sa_gov_au.md) / unley.sa.gov.au
 - [Wellington Shire Council](/doc/source/impactapps_com_au.md) / wellington.vic.gov.au
+- [Whitehorse City Counfil](/doc/source/whitehorse_vic_gov_au.md) / whitehorse.vic.gov.au
 - [Whittlesea City Council](/doc/source/whittlesea_vic_gov_au.md) / whittlesea.vic.gov.au/My-Neighbourhood
 - [Wollondilly Shire Council](/doc/source/wollondilly_nsw_gov_au.md) / wollondilly.nsw.gov.au
 - [Wollongong City Council](/doc/source/wollongongwaste_com_au.md) / wollongongwaste.com
@@ -314,6 +316,7 @@ If your service provider is not listed, feel free to open a [source request issu
 - [Marz](/doc/source/citiesapps_com.md) / marz.gv.at
 - [Mattersburg](/doc/source/citiesapps_com.md) / mattersburg.gv.at
 - [Mattsee](/doc/ics/muellapp_com.md) / muellapp.com
+- [Mayer Recycling](/doc/ics/mayer_recycling_at.md) / mayer-recycling.at
 - [Meiseldorf](/doc/source/citiesapps_com.md) / meiseldorf.gv.at
 - [Melk](/doc/source/citiesapps_com.md) / stadt-melk.at
 - [Mettersdorf am Saßbach](/doc/source/citiesapps_com.md) / mettersdorf.com
@@ -1149,6 +1152,7 @@ If your service provider is not listed, feel free to open a [source request issu
 - [PreZero](/doc/source/hvcgroep_nl.md) / prezero.nl
 - [Purmerend](/doc/source/hvcgroep_nl.md) / purmerend.nl
 - [RAD BV](/doc/source/ximmio_nl.md) / radbv.nl
+- [Rd4](/doc/source/rd4_nl.md) / rd4.nl
 - [Reinis](/doc/source/ximmio_nl.md) / reinis.nl
 - [Spaarnelanden](/doc/source/hvcgroep_nl.md) / spaarnelanden.nl
 - [Twente Milieu](/doc/source/ximmio_nl.md) / twentemilieu.nl
@@ -1237,6 +1241,7 @@ If your service provider is not listed, feel free to open a [source request issu
 - [Uppsala Vatten och Avfall AB (Deprecated)](/doc/source/uppsalavatten_se.md) / uppsalavatten.se
 - [VA Syd Sophämntning](/doc/source/vasyd_se.md) / vasyd.se
 - [VIVAB Sophämtning](/doc/source/vivab_se.md) / vivab.se
+- [Västervik Miljö & Energi](/doc/source/vmeab_se.md) / vmeab.se
 </details>
 
 <details>
@@ -1298,6 +1303,7 @@ If your service provider is not listed, feel free to open a [source request issu
 - [Anglesey](/doc/ics/anglesey_gov_wales.md) / anglesey.gov.wales
 - [Apps by imactivate](/doc/source/apps_imactivate_com.md) / imactivate.com
 - [Ards and North Down Borough Council](/doc/source/ardsandnorthdown_gov_uk.md) / ardsandnorthdown.gov.uk
+- [Arun District Council](/doc/source/arun_gov_uk.md) / arun.gov.uk
 - [Ashfield District Council](/doc/source/ashfield_gov_uk.md) / ashfield.gov.uk
 - [Ashford Borough Council](/doc/source/ashford_gov_uk.md) / ashford.gov.uk
 - [Aylesbury Vale District Council](/doc/source/aylesburyvaledc_gov_uk.md) / aylesburyvaledc.gov.uk
@@ -1378,6 +1384,7 @@ If your service provider is not listed, feel free to open a [source request issu
 - [Harlow Council](/doc/source/harlow_gov_uk.md) / harlow.gov.uk
 - [Hart District Council](/doc/source/hart_gov_uk.md) / hart.gov.uk
 - [Herefordshire City Council](/doc/source/herefordshire_gov_uk.md) / herefordshire.gov.uk
+- [High Peak Borough Council](/doc/source/highpeak_gov_uk.md) / highpeak.gov.uk
 - [Highland](/doc/source/highland_gov_uk.md) / highland.gov.uk
 - [Horsham District Council](/doc/source/horsham_gov_uk.md) / horsham.gov.uk
 - [Hull City Council](/doc/source/hull_gov_uk.md) / hull.gov.uk
@@ -1546,7 +1553,7 @@ Waste Collection Schedule can be installed via [HACS](https://hacs.xyz/), or by 
 This integration can be configured through the Home Assistant UI. From the Devices & Services page click 'Add Integration' and search for 'Waste Collection Schedule'.
 
 Alternatively, Waste Collection Schedule can be configured manually in the yaml configuration files. This is required for certain advanced options.
-For further details see the [installation and configuration](/doc/installation.md) page, or the [FAQ](/doc/faq.md). 
+For further details see the [installation and configuration](/doc/installation.md) page, or the [FAQ](/doc/faq.md).
 
 # Contributing To The Project
 

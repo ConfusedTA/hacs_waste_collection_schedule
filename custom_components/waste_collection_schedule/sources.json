@@ -349,6 +349,11 @@
       }
     },
     {
+      "title": "Stirling",
+      "module": "stirling_wa_gov_au",
+      "default_params": {}
+    },
+    {
       "title": "Stonnington City Council",
       "module": "stonnington_vic_gov_au",
       "default_params": {}
@@ -384,6 +389,11 @@
       "default_params": {
         "service": "Wellington Shire Council"
       }
+    },
+    {
+      "title": "Whitehorse City Counfil",
+      "module": "whitehorse_vic_gov_au",
+      "default_params": {}
     },
     {
       "title": "Whittlesea City Council",
@@ -1443,6 +1453,11 @@
     },
     {
       "title": "Mattsee",
+      "module": "ics",
+      "default_params": {}
+    },
+    {
+      "title": "Mayer Recycling",
       "module": "ics",
       "default_params": {}
     },
@@ -6204,6 +6219,11 @@
       }
     },
     {
+      "title": "Rd4",
+      "module": "rd4_nl",
+      "default_params": {}
+    },
+    {
       "title": "Reinis",
       "module": "ximmio_nl",
       "default_params": {
@@ -6547,6 +6567,11 @@
       "title": "VIVAB Soph\u00e4mtning",
       "module": "vivab_se",
       "default_params": {}
+    },
+    {
+      "title": "V\u00e4stervik Milj\u00f6 & Energi",
+      "module": "vmeab_se",
+      "default_params": {}
     }
   ],
   "Switzerland": [
@@ -6886,6 +6911,11 @@
     {
       "title": "Ards and North Down Borough Council",
       "module": "ardsandnorthdown_gov_uk",
+      "default_params": {}
+    },
+    {
+      "title": "Arun District Council",
+      "module": "arun_gov_uk",
       "default_params": {}
     },
     {
@@ -7288,6 +7318,11 @@
     {
       "title": "Herefordshire City Council",
       "module": "herefordshire_gov_uk",
+      "default_params": {}
+    },
+    {
+      "title": "High Peak Borough Council",
+      "module": "highpeak_gov_uk",
       "default_params": {}
     },
     {
