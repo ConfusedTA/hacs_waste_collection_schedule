@@ -24205,6 +24205,29 @@
         },
         "data_description": {}
       },
+      "args_baton_rouge_la_us": {
+        "title": "Configure Source",
+        "description": "Configure your service provider. {howto}More details: {docs_url}.",
+        "data": {
+          "calendar_title": "Calendar Title",
+          "address": "Street Address"
+        },
+        "data_description": {
+          "calendar_title": "A more readable, or user-friendly, name for the waste calendar. If nothing is provided, the name returned by the source will be used.",
+          "address": "Street address (e.g. '222 Saint Louis St, Baton Rouge, LA 70802')"
+        }
+      },
+      "reconfigure_baton_rouge_la_us": {
+        "title": "Reconfigure Source",
+        "description": "Configure your service provider. {howto}More details: {docs_url}.",
+        "data": {
+          "calendar_title": "Calendar Title",
+          "address": "Street Address"
+        },
+        "data_description": {
+          "address": "Street address (e.g. '222 Saint Louis St, Baton Rouge, LA 70802')"
+        }
+      },
       "args_ics_recyclebycity_com": {
         "title": "Configure Source",
         "description": "Configure your service provider. {howto}More details: {docs_url}.",

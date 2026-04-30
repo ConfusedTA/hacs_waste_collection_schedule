@@ -18450,6 +18450,12 @@
       "id": "recyclecoach_com"
     },
     {
+      "title": "Baton Rouge, LA",
+      "module": "baton_rouge_la_us",
+      "default_params": {},
+      "id": "baton_rouge_la_us"
+    },
+    {
       "title": "City of Austin, TX",
       "module": "ics",
       "default_params": {
