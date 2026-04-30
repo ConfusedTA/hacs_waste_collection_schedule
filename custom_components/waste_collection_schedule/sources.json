@@ -4746,6 +4746,12 @@
       "id": "info_collectes_ca"
     },
     {
+      "title": "MRC Joliette (QC)",
+      "module": "mrcjoliette_qc_ca",
+      "default_params": {},
+      "id": "mrcjoliette_qc_ca"
+    },
+    {
       "title": "MRC Marguerite-D'Youville",
       "module": "publidata_ca",
       "default_params": {},

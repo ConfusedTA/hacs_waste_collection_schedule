@@ -4446,6 +4446,29 @@
           "sector": "Sector"
         }
       },
+      "args_mrcjoliette_qc_ca": {
+        "title": "Configure Source",
+        "description": "Configure your service provider. {howto}More details: {docs_url}.",
+        "data": {
+          "calendar_title": "Calendar Title",
+          "city_id": "City/Sector"
+        },
+        "data_description": {
+          "calendar_title": "A more readable, or user-friendly, name for the waste calendar. If nothing is provided, the name returned by the source will be used.",
+          "city_id": "Select your city/sector from the list"
+        }
+      },
+      "reconfigure_mrcjoliette_qc_ca": {
+        "title": "Reconfigure Source",
+        "description": "Configure your service provider. {howto}More details: {docs_url}.",
+        "data": {
+          "calendar_title": "Calendar Title",
+          "city_id": "City/Sector"
+        },
+        "data_description": {
+          "city_id": "Select your city/sector from the list"
+        }
+      },
       "args_publidata_ca": {
         "title": "Configure Source",
         "description": "Configure your service provider. {howto}More details: {docs_url}.",
