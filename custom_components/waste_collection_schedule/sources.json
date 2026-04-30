@@ -820,6 +820,12 @@
       "id": "mrsc_vic_gov_au"
     },
     {
+      "title": "Maitland City Council",
+      "module": "maitland_nsw_gov_au",
+      "default_params": {},
+      "id": "maitland_nsw_gov_au"
+    },
+    {
       "title": "Mansfield Shire Council",
       "module": "mansfield_vic_gov_au",
       "default_params": {},
@@ -17369,6 +17375,12 @@
       "module": "camden_gov_uk",
       "default_params": {},
       "id": "camden_gov_uk"
+    },
+    {
+      "title": "London Borough of Hackney",
+      "module": "hackney_gov_uk",
+      "default_params": {},
+      "id": "hackney_gov_uk"
     },
     {
       "title": "London Borough of Harrow",

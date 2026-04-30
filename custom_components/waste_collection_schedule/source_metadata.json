@@ -406,6 +406,13 @@
     "howto": {},
     "urls": {}
   },
+  "maitland_nsw_gov_au": {
+    "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/maitland_nsw_gov_au.md",
+    "howto": {
+      "en": "Visit the Maitland City Council bin collection page, search for your address, and use the street address as shown."
+    },
+    "urls": {}
+  },
   "mansfield_vic_gov_au": {
     "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/mansfield_vic_gov_au.md",
     "howto": {},
@@ -4553,6 +4560,13 @@
   },
   "camden_gov_uk": {
     "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/camden_gov_uk.md",
+    "howto": {},
+    "urls": {
+      "url_www_findmyaddress_co_uk": "https://www.findmyaddress.co.uk/"
+    }
+  },
+  "hackney_gov_uk": {
+    "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/hackney_gov_uk.md",
     "howto": {},
     "urls": {
       "url_www_findmyaddress_co_uk": "https://www.findmyaddress.co.uk/"
