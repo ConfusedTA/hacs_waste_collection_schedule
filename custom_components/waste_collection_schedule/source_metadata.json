@@ -580,6 +580,13 @@
     "howto": {},
     "urls": {}
   },
+  "strathfield_nsw_gov_au": {
+    "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/strathfield_nsw_gov_au.md",
+    "howto": {
+      "en": "Your collection day is printed on your rates notice. It can also be found by contacting Strathfield Council."
+    },
+    "urls": {}
+  },
   "sunshinecoast_qld_gov_au": {
     "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/sunshinecoast_qld_gov_au.md",
     "howto": {},
