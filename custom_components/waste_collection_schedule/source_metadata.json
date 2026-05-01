@@ -592,6 +592,13 @@
     "howto": {},
     "urls": {}
   },
+  "sutherlandshire_nsw_gov_au": {
+    "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/sutherlandshire_nsw_gov_au.md",
+    "howto": {
+      "en": "Visit https://www.sutherlandshire.nsw.gov.au/living-here/waste-and-recycling/waste-information-booklet and note the exact suburb, street and house number values shown in each dropdown."
+    },
+    "urls": {}
+  },
   "hawkesbury_nsw_gov_au": {
     "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/hawkesbury_nsw_gov_au.md",
     "howto": {},
@@ -1245,6 +1252,13 @@
       "fr": "Entrez votre adresse complète avec le nom de la commune (ex : '1 place Roger Salengro, Oullins')."
     },
     "urls": {}
+  },
+  "sictom_lons_le_saunier_fr": {
+    "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/sictom_lons_le_saunier_fr.md",
+    "howto": {},
+    "urls": {
+      "url_sictom_lons_le_saunier_fr_quand_passe_le_camion_benne_html": "https://sictom-lons-le-saunier.fr/quand-passe-le-camion-benne.html."
+    }
   },
   "sivom_rivedroite_fr": {
     "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/sivom_rivedroite_fr.md",

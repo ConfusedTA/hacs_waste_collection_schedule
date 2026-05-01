@@ -213,6 +213,7 @@ If you already have enough information for your municipality/region, you are ver
 - [Stonnington City Council](/doc/source/stonnington_vic_gov_au.md) / stonnington.vic.gov.au
 - [Strathfield Council](/doc/source/strathfield_nsw_gov_au.md) / strathfield.nsw.gov.au
 - [Sunshine Coast Queensland (QLD)](/doc/source/sunshinecoast_qld_gov_au.md) / sunshinecoast.qld.gov.au/living-and-community/waste-and-recycling/bin-collection-days
+- [Sutherland Shire Council](/doc/source/sutherlandshire_nsw_gov_au.md) / sutherlandshire.nsw.gov.au
 - [The Flinders Ranges Council](/doc/source/app_my_local_services_au.md) / frc.sa.gov.au/page.aspx
 - [The Hawkesbury City Council, Sydney](/doc/source/hawkesbury_nsw_gov_au.md) / hawkesbury.nsw.gov.au
 - [The Hills Shire Council, Sydney](/doc/source/thehills_nsw_gov_au.md) / thehills.nsw.gov.au
@@ -925,6 +926,7 @@ If you already have enough information for your municipality/region, you are ver
 - [Saint-Médard-en-Jalles](/doc/source/opendata_bordeauxmetropole_fr.md) / opendata.bordeaux-metropole.fr
 - [Saint-Vincent-de-Paul](/doc/source/opendata_bordeauxmetropole_fr.md) / opendata.bordeaux-metropole.fr
 - [Saumur Val de Loire](/doc/source/publidata_fr.md) / saumurvaldeloire.fr
+- [SICTOM de Lons-le-Saunier](/doc/source/sictom_lons_le_saunier_fr.md) / sictom-lons-le-saunier.fr
 - [SIVOM Rive Droite](/doc/source/publidata_fr.md) / sivom-rivedroite.fr
 - [Sivom Rive Droite - Bassens](/doc/source/sivom_rivedroite_fr.md) / sivom-rivedroite.fr
 - [Talence](/doc/source/opendata_bordeauxmetropole_fr.md) / opendata.bordeaux-metropole.fr

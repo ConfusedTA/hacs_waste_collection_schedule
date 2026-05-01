@@ -1146,6 +1146,12 @@
       "id": "sunshinecoast_qld_gov_au"
     },
     {
+      "title": "Sutherland Shire Council",
+      "module": "sutherlandshire_nsw_gov_au",
+      "default_params": {},
+      "id": "sutherlandshire_nsw_gov_au"
+    },
+    {
       "title": "The Flinders Ranges Council",
       "module": "app_my_local_services_au",
       "default_params": {},
@@ -5463,6 +5469,12 @@
         "instance_id": 159
       },
       "id": "publidata_fr"
+    },
+    {
+      "title": "SICTOM de Lons-le-Saunier",
+      "module": "sictom_lons_le_saunier_fr",
+      "default_params": {},
+      "id": "sictom_lons_le_saunier_fr"
     },
     {
       "title": "SIVOM Rive Droite",

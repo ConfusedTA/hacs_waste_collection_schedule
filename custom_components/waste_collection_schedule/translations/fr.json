@@ -2371,6 +2371,30 @@
         },
         "data_description": {}
       },
+      "args_sutherlandshire_nsw_gov_au": {
+        "title": "Configurer la Source",
+        "description": "Configurez votre fournisseur de services. {howto}Plus de détails : {docs_url}.",
+        "data": {
+          "calendar_title": "Titre du Calendrier",
+          "house_number": "Numéro civique",
+          "street": "Rue",
+          "suburb": "Suburb"
+        },
+        "data_description": {
+          "calendar_title": "Un nom plus lisible ou convivial pour le calendrier des déchets. Si aucun n'est fourni, le nom renvoyé par la source sera utilisé."
+        }
+      },
+      "reconfigure_sutherlandshire_nsw_gov_au": {
+        "title": "Reconfigurer la Source",
+        "description": "Configurez votre fournisseur de services. {howto}Plus de détails : {docs_url}.",
+        "data": {
+          "calendar_title": "Titre du Calendrier",
+          "house_number": "Numéro civique",
+          "street": "Rue",
+          "suburb": "Suburb"
+        },
+        "data_description": {}
+      },
       "args_hawkesbury_nsw_gov_au": {
         "title": "Configurer la Source",
         "description": "Configurez votre fournisseur de services. {howto}Plus de détails : {docs_url}.",
@@ -5232,6 +5256,29 @@
         },
         "data_description": {
           "address": "Votre adresse postale avec la commune"
+        }
+      },
+      "args_sictom_lons_le_saunier_fr": {
+        "title": "Configurer la Source",
+        "description": "Configurez votre fournisseur de services. {howto}Plus de détails : {docs_url}.",
+        "data": {
+          "calendar_title": "Titre du Calendrier",
+          "commune": "Commune"
+        },
+        "data_description": {
+          "calendar_title": "Un nom plus lisible ou convivial pour le calendrier des déchets. Si aucun n'est fourni, le nom renvoyé par la source sera utilisé.",
+          "commune": "Le slug de votre commune (ex: 'courbouzon'). Cherchez votre commune sur {url_sictom_lons_le_saunier_fr_quand_passe_le_camion_benne_html}"
+        }
+      },
+      "reconfigure_sictom_lons_le_saunier_fr": {
+        "title": "Reconfigurer la Source",
+        "description": "Configurez votre fournisseur de services. {howto}Plus de détails : {docs_url}.",
+        "data": {
+          "calendar_title": "Titre du Calendrier",
+          "commune": "Commune"
+        },
+        "data_description": {
+          "commune": "Le slug de votre commune (ex: 'courbouzon'). Cherchez votre commune sur {url_sictom_lons_le_saunier_fr_quand_passe_le_camion_benne_html}"
         }
       },
       "args_sivom_rivedroite_fr": {

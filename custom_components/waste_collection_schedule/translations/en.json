@@ -2483,6 +2483,37 @@
         },
         "data_description": {}
       },
+      "args_sutherlandshire_nsw_gov_au": {
+        "title": "Configure Source",
+        "description": "Configure your service provider. {howto}More details: {docs_url}.",
+        "data": {
+          "calendar_title": "Calendar Title",
+          "house_number": "House Number",
+          "street": "Street Name",
+          "suburb": "Suburb"
+        },
+        "data_description": {
+          "calendar_title": "A more readable, or user-friendly, name for the waste calendar. If nothing is provided, the name returned by the source will be used.",
+          "house_number": "House number, exactly as shown in the dropdown (e.g. 5).",
+          "street": "Street name, exactly as shown in the dropdown (e.g. Cleveland Place).",
+          "suburb": "Suburb in UPPER CASE, exactly as shown in the dropdown (e.g. BONNET BAY)."
+        }
+      },
+      "reconfigure_sutherlandshire_nsw_gov_au": {
+        "title": "Reconfigure Source",
+        "description": "Configure your service provider. {howto}More details: {docs_url}.",
+        "data": {
+          "calendar_title": "Calendar Title",
+          "house_number": "House Number",
+          "street": "Street Name",
+          "suburb": "Suburb"
+        },
+        "data_description": {
+          "house_number": "House number, exactly as shown in the dropdown (e.g. 5).",
+          "street": "Street name, exactly as shown in the dropdown (e.g. Cleveland Place).",
+          "suburb": "Suburb in UPPER CASE, exactly as shown in the dropdown (e.g. BONNET BAY)."
+        }
+      },
       "args_hawkesbury_nsw_gov_au": {
         "title": "Configure Source",
         "description": "Configure your service provider. {howto}More details: {docs_url}.",
@@ -5462,6 +5493,29 @@
         },
         "data_description": {
           "address": "Your street address with city"
+        }
+      },
+      "args_sictom_lons_le_saunier_fr": {
+        "title": "Configure Source",
+        "description": "Configure your service provider. {howto}More details: {docs_url}.",
+        "data": {
+          "calendar_title": "Calendar Title",
+          "commune": "Commune"
+        },
+        "data_description": {
+          "calendar_title": "A more readable, or user-friendly, name for the waste calendar. If nothing is provided, the name returned by the source will be used.",
+          "commune": "The slug of your commune (e.g. 'courbouzon'). Search on {url_sictom_lons_le_saunier_fr_quand_passe_le_camion_benne_html} to find your commune name, then convert to lowercase with hyphens."
+        }
+      },
+      "reconfigure_sictom_lons_le_saunier_fr": {
+        "title": "Reconfigure Source",
+        "description": "Configure your service provider. {howto}More details: {docs_url}.",
+        "data": {
+          "calendar_title": "Calendar Title",
+          "commune": "Commune"
+        },
+        "data_description": {
+          "commune": "The slug of your commune (e.g. 'courbouzon'). Search on {url_sictom_lons_le_saunier_fr_quand_passe_le_camion_benne_html} to find your commune name, then convert to lowercase with hyphens."
         }
       },
       "args_sivom_rivedroite_fr": {
