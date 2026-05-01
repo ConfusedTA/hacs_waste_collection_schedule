@@ -13660,6 +13660,12 @@
       "id": "ecoapp_ecoservice_lt"
     },
     {
+      "title": "Ekonovus",
+      "module": "ekonovus_lt",
+      "default_params": {},
+      "id": "ekonovus_lt"
+    },
+    {
       "title": "Kauno \u0161vara",
       "module": "grafikai_svara_lt",
       "default_params": {},

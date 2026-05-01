@@ -2105,6 +2105,7 @@ If you already have enough information for your municipality/region, you are ver
 <summary>Lithuania</summary>
 
 - [Ecoservice atliekos](/doc/source/ecoapp_ecoservice_lt.md) / ecoservice.lt
+- [Ekonovus](/doc/source/ekonovus_lt.md) / ekonovus.lt
 - [Kauno švara](/doc/source/grafikai_svara_lt.md) / grafikai.svara.lt
 - [Telšių keliai](/doc/source/tkeliai_lt.md) / tkeliai.lt
 </details>

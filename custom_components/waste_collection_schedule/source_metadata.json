@@ -2845,6 +2845,11 @@
     "howto": {},
     "urls": {}
   },
+  "ekonovus_lt": {
+    "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/ekonovus_lt.md",
+    "howto": {},
+    "urls": {}
+  },
   "grafikai_svara_lt": {
     "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/grafikai_svara_lt.md",
     "howto": {},
