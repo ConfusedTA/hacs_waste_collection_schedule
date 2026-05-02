@@ -1306,14 +1306,6 @@
       "id": "umweltverbaende_at"
     },
     {
-      "title": "Abfallverband Schwechat",
-      "module": "umweltverbaende_at",
-      "default_params": {
-        "district": "schwechat"
-      },
-      "id": "umweltverbaende_at"
-    },
-    {
       "title": "Abfallwirtschaft der Stadt St. P\u00f6lten",
       "module": "ics",
       "default_params": {
