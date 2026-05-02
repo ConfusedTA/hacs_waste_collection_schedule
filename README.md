@@ -774,6 +774,7 @@ If you already have enough information for your municipality/region, you are ver
 - [Castlegar, BC](/doc/ics/recollect.md) / castlegar.ca
 - [Chatham-Kent (ON)](/doc/source/recyclecoach_com.md) / chatham-kent.ca
 - [City of Barrie](/doc/source/barrie_ca.md) / barrie.ca/services-payments/garbage-recycling-organics/curbside-collection/collection-schedules
+- [City of Beaumont, AB](/doc/ics/recollect.md) / beaumont.ab.ca
 - [City of Edmonton, AB](/doc/ics/recollect.md) / edmonton.ca
 - [City of Greater Sudbury, ON](/doc/ics/recollect.md) / greatersudbury.ca
 - [City of Guelph, ON](/doc/ics/recollect.md) / guelph.ca
@@ -2572,6 +2573,7 @@ If you already have enough information for your municipality/region, you are ver
 - [Barnsley Metropolitan Borough Council](/doc/source/barnsley_gov_uk.md) / barnsley.gov.uk
 - [Basildon Council](/doc/source/basildon_gov_uk.md) / basildon.gov.uk
 - [Basingstoke and Deane Borough Council](/doc/source/basingstoke_gov_uk.md) / basingstoke.gov.uk
+- [Bassetlaw District Council](/doc/ics/recollect.md) / bassetlaw.gov.uk
 - [Bath & North East Somerset Council](/doc/source/bathnes_gov_uk.md) / bathnes.gov.uk
 - [BCP Council](/doc/source/bcp_gov_uk.md) / bcpportal.bcpcouncil.gov.uk
 - [Bedford Borough Council](/doc/source/bedford_gov_uk.md) / bedford.gov.uk

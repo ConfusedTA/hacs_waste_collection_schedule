@@ -4495,6 +4495,14 @@
       "id": "barrie_ca"
     },
     {
+      "title": "City of Beaumont, AB",
+      "module": "ics",
+      "default_params": {
+        "split_at": "\\, (?:and )?|(?: and )"
+      },
+      "id": "ics_recollect"
+    },
+    {
       "title": "City of Edmonton, AB",
       "module": "ics",
       "default_params": {
@@ -16668,6 +16676,14 @@
       "module": "basingstoke_gov_uk",
       "default_params": {},
       "id": "basingstoke_gov_uk"
+    },
+    {
+      "title": "Bassetlaw District Council",
+      "module": "ics",
+      "default_params": {
+        "split_at": "\\, (?:and )?|(?: and )"
+      },
+      "id": "ics_recollect"
     },
     {
       "title": "Bath & North East Somerset Council",

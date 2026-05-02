@@ -158,6 +158,7 @@ This source has been successfully tested with the following service providers:
 
 - [Calgary, AB](/doc/ics/recollect.md) / calgary.ca
 - [Castlegar, BC](/doc/ics/recollect.md) / castlegar.ca
+- [City of Beaumont, AB](/doc/ics/recollect.md) / beaumont.ab.ca
 - [City of Edmonton, AB](/doc/ics/recollect.md) / edmonton.ca
 - [City of Greater Sudbury, ON](/doc/ics/recollect.md) / greatersudbury.ca
 - [City of Guelph, ON](/doc/ics/recollect.md) / guelph.ca
@@ -434,6 +435,7 @@ This source has been successfully tested with the following service providers:
 ### United Kingdom
 
 - [Anglesey](/doc/ics/anglesey_gov_wales.md) / anglesey.gov.wales
+- [Bassetlaw District Council](/doc/ics/recollect.md) / bassetlaw.gov.uk
 - [Brent Council](/doc/ics/brent_gov_uk.md) / brent.gov.uk
 - [Caerphilly, Wales](/doc/ics/recollect.md) / caerphilly.gov.uk
 - [Falkirk](/doc/ics/falkirk_gov_uk.md) / falkirk.gov.uk
