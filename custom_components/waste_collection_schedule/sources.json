@@ -4748,7 +4748,9 @@
     {
       "title": "Laval (QC)",
       "module": "ics",
-      "default_params": {},
+      "default_params": {
+        "regex": "Collecte\\s*-\\s(\\w+)"
+      },
       "id": "ics_laval_ca"
     },
     {
@@ -4977,6 +4979,12 @@
       "id": "ics_recollect"
     },
     {
+      "title": "Sherbrooke (QC)",
+      "module": "ics",
+      "default_params": {},
+      "id": "ics_sherbrooke_ca"
+    },
+    {
       "title": "Spruce Grove, AB",
       "module": "ics",
       "default_params": {
@@ -5038,6 +5046,12 @@
         "state": "Ontario"
       },
       "id": "recyclecoach_com"
+    },
+    {
+      "title": "Ville de Saguenay",
+      "module": "saguenay_ca",
+      "default_params": {},
+      "id": "saguenay_ca"
     },
     {
       "title": "Waste Wise APPS",

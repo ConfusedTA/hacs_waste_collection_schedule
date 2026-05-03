@@ -196,6 +196,7 @@ This source has been successfully tested with the following service providers:
 - [Saint-Jean-Sur-Richelieu, QC](/doc/ics/recollect.md) / compo.qc.ca
 - [Saint-Jérome (QC)](/doc/ics/vsj_ca.md) / vsj.ca
 - [Saskatoon, SK](/doc/ics/recollect.md) / saskatoon.ca
+- [Sherbrooke (QC)](/doc/ics/sherbrooke_ca.md) / sherbrooke.ca
 - [Spruce Grove, AB](/doc/ics/recollect.md) / sprucegrove.org
 - [St Clair Township, ON](/doc/ics/recollect.md) / stclairtownship.ca
 - [Strathcona County, ON](/doc/ics/recollect.md) / strathcona.ca

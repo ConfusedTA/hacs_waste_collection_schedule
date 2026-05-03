@@ -837,6 +837,7 @@ If you already have enough information for your municipality/region, you are ver
 - [Saint-Jean-Sur-Richelieu, QC](/doc/ics/recollect.md) / compo.qc.ca
 - [Saint-Jérome (QC)](/doc/ics/vsj_ca.md) / vsj.ca
 - [Saskatoon, SK](/doc/ics/recollect.md) / saskatoon.ca
+- [Sherbrooke (QC)](/doc/ics/sherbrooke_ca.md) / sherbrooke.ca
 - [Spruce Grove, AB](/doc/ics/recollect.md) / sprucegrove.org
 - [St Clair Township, ON](/doc/ics/recollect.md) / stclairtownship.ca
 - [Strathcona County, ON](/doc/ics/recollect.md) / strathcona.ca
@@ -845,6 +846,7 @@ If you already have enough information for your municipality/region, you are ver
 - [Township of Langley (BC)](/doc/source/recyclecoach_com.md) / tol.ca
 - [Valleyfield, Québec](/doc/ics/valleyfiled_qc_ca.md) / ville.valleyfield.qc.ca
 - [Vaughan (ON)](/doc/source/recyclecoach_com.md) / vaughan.ca
+- [Ville de Saguenay](/doc/source/saguenay_ca.md) / ville.saguenay.ca
 - [Waste Wise APPS](/doc/ics/recollect.md) / edmonton.ca
 - [Whitby, ON](/doc/ics/recollect.md) / whitby.ca
 - [Winnipeg (MB)](/doc/source/myutility_winnipeg_ca.md) / myutility.winnipeg.ca
