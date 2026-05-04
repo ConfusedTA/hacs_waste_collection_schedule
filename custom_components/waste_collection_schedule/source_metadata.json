@@ -554,6 +554,13 @@
     "howto": {},
     "urls": {}
   },
+  "harvey_wa_gov_au": {
+    "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/harvey_wa_gov_au.md",
+    "howto": {
+      "en": "Visit https://www.harvey.wa.gov.au/services/rubbish-and-waste-services/bin-collection-residential-and-commercial and find your suburb in the collection day list. Use the exact text shown. For recycling_in_even_week: check your last recycling collection date and see if its ISO week number (https://whatweekisit.org/) was even (True) or odd (False)."
+    },
+    "urls": {}
+  },
   "mundaring_wa_gov_au": {
     "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/mundaring_wa_gov_au.md",
     "howto": {

@@ -2336,6 +2336,33 @@
         },
         "data_description": {}
       },
+      "args_harvey_wa_gov_au": {
+        "title": "Configure Source",
+        "description": "Configure your service provider. {howto}More details: {docs_url}.",
+        "data": {
+          "calendar_title": "Calendar Title",
+          "recycling_in_even_week": "Recycling collected on even ISO weeks",
+          "suburb": "Suburb / Collection Area"
+        },
+        "data_description": {
+          "calendar_title": "A more readable, or user-friendly, name for the waste calendar. If nothing is provided, the name returned by the source will be used.",
+          "recycling_in_even_week": "Set to True if your recycling bin is collected on even ISO week numbers, False if collected on odd ISO week numbers. Check your last recycling collection date to determine this.",
+          "suburb": "Your suburb/area as listed on the Shire of Harvey bin collection page, e.g. 'Yarloop' or 'Australind (south of Paris Road)'."
+        }
+      },
+      "reconfigure_harvey_wa_gov_au": {
+        "title": "Reconfigure Source",
+        "description": "Configure your service provider. {howto}More details: {docs_url}.",
+        "data": {
+          "calendar_title": "Calendar Title",
+          "recycling_in_even_week": "Recycling collected on even ISO weeks",
+          "suburb": "Suburb / Collection Area"
+        },
+        "data_description": {
+          "recycling_in_even_week": "Set to True if your recycling bin is collected on even ISO week numbers, False if collected on odd ISO week numbers. Check your last recycling collection date to determine this.",
+          "suburb": "Your suburb/area as listed on the Shire of Harvey bin collection page, e.g. 'Yarloop' or 'Australind (south of Paris Road)'."
+        }
+      },
       "args_mundaring_wa_gov_au": {
         "title": "Configure Source",
         "description": "Configure your service provider. {howto}More details: {docs_url}.",

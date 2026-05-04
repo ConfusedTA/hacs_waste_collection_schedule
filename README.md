@@ -204,6 +204,7 @@ If you already have enough information for your municipality/region, you are ver
 - [Rural City of Wangaratta](/doc/source/wangaratta_vic_gov_au.md) / wangaratta.vic.gov.au
 - [Scenic Rim Regional Council](/doc/source/scenicrim_qld_gov_au.md) / scenicrim.qld.gov.au
 - [Shellharbour City Council](/doc/source/shellharbourwaste_com_au.md) / shellharbourwaste.com.au
+- [Shire of Harvey](/doc/source/harvey_wa_gov_au.md) / harvey.wa.gov.au
 - [Shire of Mundaring](/doc/source/mundaring_wa_gov_au.md) / mundaring.wa.gov.au
 - [Shire of Murray](/doc/source/murray_wa_gov_au.md) / murray.wa.gov.au
 - [Shire of Serpentine Jarrahdale](/doc/source/sjshire_wa_gov_au.md) / sjshire.wa.gov.au
