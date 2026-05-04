@@ -15963,6 +15963,12 @@
       "id": "vivab_se"
     },
     {
+      "title": "VMAB",
+      "module": "vmab_se",
+      "default_params": {},
+      "id": "vmab_se"
+    },
+    {
       "title": "V\u00e4nersborg",
       "module": "avfallsapp_se",
       "default_params": {

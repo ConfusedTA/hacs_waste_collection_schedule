@@ -2466,6 +2466,7 @@ If you already have enough information for your municipality/region, you are ver
 - [Vafab Miljö](/doc/source/edpevent_se.md) / vafabmiljo.se
 - [Vaxholm](/doc/source/roslagsvatten_se.md) / roslagsvatten.se
 - [VIVAB Sophämtning](/doc/source/vivab_se.md) / vivab.se
+- [VMAB](/doc/source/vmab_se.md) / vmab.se
 - [Vänersborg](/doc/source/avfallsapp_se.md) / vanersborg.se
 - [Värmdö Sophämtning](/doc/source/varmdo_se.md) / varmdo.se
 - [Västervik Miljö & Energi](/doc/source/vmeab_se.md) / vmeab.se
