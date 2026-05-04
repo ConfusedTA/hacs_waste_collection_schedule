@@ -970,6 +970,12 @@
       "id": "northernbeaches_nsw_gov_au"
     },
     {
+      "title": "Orange City Council",
+      "module": "orange_nsw_gov_au",
+      "default_params": {},
+      "id": "orange_nsw_gov_au"
+    },
+    {
       "title": "Penrith City Council",
       "module": "impactapps_com_au",
       "default_params": {

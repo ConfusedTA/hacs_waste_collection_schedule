@@ -510,6 +510,13 @@
     },
     "urls": {}
   },
+  "orange_nsw_gov_au": {
+    "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/orange_nsw_gov_au.md",
+    "howto": {
+      "en": "Orange City Council divides the city into two fortnightly recycling zones (referred to in the waste booklet as Week A and Week B). Zone A covers properties west of Anson Street. Zone B covers properties east of Anson Street, properties on Anson Street, Spring Hill, Lucknow, and Clifton Grove. Download the annual waste booklet from https://www.orange.nsw.gov.au/waste/ to confirm which zone your street belongs to."
+    },
+    "urls": {}
+  },
   "portenf_sa_gov_au": {
     "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/portenf_sa_gov_au.md",
     "howto": {},
