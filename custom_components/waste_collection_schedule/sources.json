@@ -14419,6 +14419,12 @@
       "id": "fosenrenovasjon_no"
     },
     {
+      "title": "Fredrikstad kommune",
+      "module": "fredrikstad_no",
+      "default_params": {},
+      "id": "fredrikstad_no"
+    },
+    {
       "title": "Innherred Renovasjon",
       "module": "innherredrenovasjon_no",
       "default_params": {},
