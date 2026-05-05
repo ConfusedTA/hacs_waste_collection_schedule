@@ -717,6 +717,7 @@ If you already have enough information for your municipality/region, you are ver
 - [Wartberg ob der Aist](/doc/source/citiesapps_com.md) / wartberg-aist.at
 - [Wattens](/doc/ics/muellapp_com.md) / muellapp.com
 - [Weiden am See](/doc/source/citiesapps_com.md) / weiden-see.at
+- [Weinitzen](/doc/source/citiesapps_com.md) / weinitzen.gv.at
 - [Weitersfeld](/doc/source/citiesapps_com.md) / weitersfeld.gv.at
 - [Weiz](/doc/source/citiesapps_com.md) / weiz.at
 - [Weißenkirchen in der Wachau](/doc/source/citiesapps_com.md) / weissenkirchen-wachau.at

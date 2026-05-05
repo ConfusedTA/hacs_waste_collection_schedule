@@ -4184,6 +4184,12 @@
       "id": "citiesapps_com"
     },
     {
+      "title": "Weinitzen",
+      "module": "citiesapps_com",
+      "default_params": {},
+      "id": "citiesapps_com"
+    },
+    {
       "title": "Weitersfeld",
       "module": "citiesapps_com",
       "default_params": {},
