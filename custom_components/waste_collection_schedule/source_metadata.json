@@ -1112,6 +1112,11 @@
     },
     "urls": {}
   },
+  "villesblg_ca": {
+    "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/villesblg_ca.md",
+    "howto": {},
+    "urls": {}
+  },
   "myutility_winnipeg_ca": {
     "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/myutility_winnipeg_ca.md",
     "howto": {},

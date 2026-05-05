@@ -5078,6 +5078,12 @@
       "id": "saguenay_ca"
     },
     {
+      "title": "Ville de Saint-Basile-le-Grand",
+      "module": "villesblg_ca",
+      "default_params": {},
+      "id": "villesblg_ca"
+    },
+    {
       "title": "Waste Wise APPS",
       "module": "ics",
       "default_params": {
