@@ -554,6 +554,13 @@
     "howto": {},
     "urls": {}
   },
+  "dardanup_wa_gov_au": {
+    "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/dardanup_wa_gov_au.md",
+    "howto": {
+      "en": "Visit https://www.dardanup.wa.gov.au/our-services/waste-and-recycling/find-your-bin-day.aspx and find your street in the list to determine your collection day. Enter your street name (without house number) as the 'street' argument, or enter the day directly as 'collection_day' (for Dardanup West / Ferguson Valley residents). For recycling_in_even_week: check your last recycling collection date and see if its ISO week number (https://whatweekisit.org/) was even (True) or odd (False)."
+    },
+    "urls": {}
+  },
   "harvey_wa_gov_au": {
     "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/harvey_wa_gov_au.md",
     "howto": {

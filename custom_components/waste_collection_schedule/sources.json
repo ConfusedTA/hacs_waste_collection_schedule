@@ -1088,6 +1088,12 @@
       "id": "shellharbourwaste_com_au"
     },
     {
+      "title": "Shire of Dardanup",
+      "module": "dardanup_wa_gov_au",
+      "default_params": {},
+      "id": "dardanup_wa_gov_au"
+    },
+    {
       "title": "Shire of Harvey",
       "module": "harvey_wa_gov_au",
       "default_params": {},
